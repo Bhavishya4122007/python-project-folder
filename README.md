@@ -1,2 +1,12 @@
 # python-project-folder
-Network scanning is a fundamental technique in cybersecurity and network administration. It helps detect: • Live hosts (active devices) • Open ports (communication channels) • Running services (like SSH, HTTP) • Operating systems (OS fingerprinting) • Vulnerabilities (unpatched or misconfigured systems)
+Network scanning is a fundamental technique in cybersecurity and network administration.
+
+Before running program,install all requirement
+
+pip install socket
+pip install scapy
+pip install pycap
+pip install python-nmap
+
+After installing these modules , also install nmap software
+https://nmap.org/dowload
